@@ -51,10 +51,6 @@ A simple and intuitive personal finance management application designed to help 
 
 5. Start the frontend using the appropriate frontend directory and its development command.
 
-## 📸 Screenshots
-
-Add screenshots of the application here.
-
 ## 🌐 Links
 
 - **GitHub Repository:** https://github.com/vishnu122223/Money-Manager
